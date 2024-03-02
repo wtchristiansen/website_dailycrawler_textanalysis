@@ -1,5 +1,7 @@
 # website_dailycrawler_textanalysis
 
+<a href="https://zenodo.org/doi/10.5281/zenodo.10750063"><img src="https://zenodo.org/badge/766044589.svg" alt="DOI"></a>
+
 Web Crawler for Text Data
 This repository contains a work-in-progress R script for a web crawler designed to scrape text data from the United Nations Press Release website (https://press.un.org/en). The primary goal of this crawler is to collect text data daily for subsequent text analysis, including word-to-vector analysis, topic modeling, and sentiment analysis.
 
